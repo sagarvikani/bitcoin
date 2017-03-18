@@ -39,6 +39,7 @@ on a patch set.
 
 Developer IRC can be found on Freenode at #bitcoin-core-dev.
 
+
 Testing
 -------
 
